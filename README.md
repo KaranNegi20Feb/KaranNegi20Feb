@@ -1,14 +1,6 @@
 
 # 👋 Hey there, I'm Karan  
 
-
-## 🚀 About Me
-💻 Passionate **Full Stack Developer** and **Coder**  
-⚙️ Exploring **Docker**, **Kubernetes**, and **Machine Learning**  
-🚀 Strong in **C++** and **Java**  
-🌱 Always learning and building cool stuff that solves real problems  
-
-
 ## 🧰 Tech Stack
 
 **Languages:**  
