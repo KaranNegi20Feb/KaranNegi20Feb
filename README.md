@@ -1,7 +1,5 @@
 # 👋 Hey there, I'm Karan  
 
-[![Holopin Badge](https://holopin.me/karannegi20feb)](https://holopin.io/@karannegi20feb)
-
 ---
 
 ## 🚀 About Me
