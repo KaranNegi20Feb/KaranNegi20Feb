@@ -12,7 +12,7 @@
 **DevOps & Tools:**  
 🐳 Docker | ☸️ Kubernetes | Git | GitHub | VS Code  
 
-** AI & GenAI:**  
+**AI, ML, DL & Fine-tuning**  
 📊 Scikit-learn | Pandas | NumPy | Matplotlib | Keras | Tensorflow | NLTk | Transformers | PEFT
 
 
