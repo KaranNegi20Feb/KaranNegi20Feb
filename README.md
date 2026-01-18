@@ -12,8 +12,8 @@
 **DevOps & Tools:**  
 🐳 Docker | ☸️ Kubernetes | Git | GitHub | VS Code  
 
-**Machine Learning:**  
-📊 Scikit-learn | Pandas | NumPy | Matplotlib  
+** AI & GenAI:**  
+📊 Scikit-learn | Pandas | NumPy | Matplotlib | Keras | Tensorflow | NLTk | Transformers | PEFT
 
 
 ## 🧩 Holopin Badges
