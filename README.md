@@ -4,10 +4,10 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-☕ Java | 🐍 Python | 🧠 C++ | 🧩 JavaScript  
+☕ Java | 🧩 JavaScript | 🐍 Python | 🧠 C++
 
 **Web & Full Stack:**  
-🌐 HTML | CSS | React | Node.js | Express | MongoDB | Spring Boot 
+🌐 HTML | CSS | React | Node.js | Express | MongoDB | Spring Boot | PostgreSQL
 
 **DevOps & Tools:**  
 🐳 Docker | ☸️ Kubernetes | Terraform | Git | GitHub | Maven
