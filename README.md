@@ -7,13 +7,13 @@
 🧠 C++ | ☕ Java | 🐍 Python | 🧩 JavaScript  
 
 **Web & Full Stack:**  
-🌐 HTML | CSS | React | Node.js | Express | MongoDB  
+🌐 HTML | CSS | React | Node.js | Express | MongoDB | Spring Boot 
 
 **DevOps & Tools:**  
-🐳 Docker | ☸️ Kubernetes | Git | GitHub | VS Code  
+🐳 Docker | ☸️ Kubernetes | Terraform | Git | GitHub | Maven
 
 **AI, ML, DL & Fine-tuning**  
-📊 Scikit-learn | Pandas | NumPy | Matplotlib | Keras | Tensorflow | NLTk | Transformers | PEFT
+📊 Scikit-learn | Pandas | NumPy | Matplotlib | Keras | Tensorflow 
 
 
 ## 🧩 Holopin Badges
